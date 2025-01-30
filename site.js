@@ -1,12 +1,12 @@
 
 
 //Exercise 1 - mainContentSection & color red
-//const mainContentSection = document.querySelector('h2')
-//mainContentSection.style.color = 'red'
+const mainContentSection = document.querySelector('h2')
+mainContentSection.style.color = 'red'
 
 //Exercise 2 - Method 1 - Underline 'Fork this project on Github'
-//const link = document.querySelector('footer a')
-//link.style.textDecoration = 'underline'
+const link = document.querySelector('footer a')
+link.style.textDecoration = 'underline'
 
 //Exercise 2 - Method 2 - Using the ID method - Add ID in the footer
 //const link = document.querySelector('#fork')
